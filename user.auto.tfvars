@@ -1,0 +1,7 @@
+identity_store_id =  "d-93676c5625"
+display_name  = "rsa comp"
+user_name     = "enggrupinder"
+given_name     = "Rupinder"
+family_name   = "Singh"
+emails    = "enggrupinder@gmail.com"
+group_id = "9295f444-a0e1-702e-cbcd-b442a00e38b8"
